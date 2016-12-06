@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 React Native Starter Kit
 =======
 
@@ -51,4 +52,6 @@ React Native Starter Kit
 ### Any advice?
 
 Love to hear any feedback or tips to improve - submit an issue or PR.
+=======
+>>>>>>> refs/remotes/origin/master
 # ITS484Project
