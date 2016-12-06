@@ -1,0 +1,3 @@
+rootProject.name = 'complaintApp'
+
+include ':app'
